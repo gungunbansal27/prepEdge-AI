@@ -429,7 +429,20 @@ BUILD.md still shows `v2/Mx-*` in diagrams; use hyphen form in practice.
 
 Agents: **append new entries at the top** (newest first).
 
+### 2026-08-10 — Placement Readiness Audit Complete
+
+- **Agent session:** Comprehensive Placement Readiness Verification & Hardening
+- **Done:**
+  - Resolved `@prepedge/shared` path alias in `apps/api/vitest.config.js`; all 78 tests across 14 test suites passing.
+  - Verified ESLint across monorepo — 0 errors.
+  - Verified production Vite bundle — 2,761 modules transformed, `dist/` compiled.
+  - Hardened Firebase service key loading to handle both local file path and production JSON env strings.
+  - Updated `.gitignore` to prevent secret Firebase keys from untracked commits.
+  - Created `docs/PLACEMENT_SHOWCASE.md` with copy-paste resume bullet points, 30s pitch, whiteboard system design, technical QA cheat sheet, and recruiter demo checklist.
+- **Status:** **100% Placement Ready**
+
 ### 2026-07-03 — M9 complete
+
 
 - **Agent session:** Polish — dark mode, Vercel-style landing/navbar, lazy routes, error boundary
 - **Branch:** `v2-M9-polish` → merged into `v2`

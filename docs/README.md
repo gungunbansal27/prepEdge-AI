@@ -23,10 +23,12 @@ Central documentation for **PrepEdge AI v2** — an AI-powered mock interview pl
 
 | Document | Purpose |
 |----------|---------|
+| **[Placement Showcase Guide](./PLACEMENT_SHOWCASE.md)** | **Resume bullet points, 30-sec pitch, whiteboard design & recruiter checklist** |
 | **[Interview Prep Guide](./interview-prep/README.md)** | Master guide — elevator pitch, walkthrough, trade-offs |
 | [Technical Questions](./interview-prep/technical-questions.md) | 25+ technical Q&As in interview format |
 | [Behavioral Questions](./interview-prep/behavioral-questions.md) | STAR-format behavioral Q&As |
 | [System Design Questions](./interview-prep/system-design.md) | Scale, security, and design scenarios |
+
 
 ---
 

@@ -29,6 +29,8 @@ tmp/
 *.lock
 
 **/firebaseServiceAccountKey.json
+*firebase-adminsdk*.json
+**/*firebase*.json
 
 .env
 
